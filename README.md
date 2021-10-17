@@ -17,9 +17,80 @@
 
 📊 **this week i spent my coding time on:**
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 171 Contributions in the Year 2021
+ > 
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    227 commits    █████████░░░░░░░░░░░░░░░░   38.09% 
+🌆 Daytime    228 commits    █████████░░░░░░░░░░░░░░░░   38.26% 
+🌃 Evening    141 commits    ██████░░░░░░░░░░░░░░░░░░░   23.66% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       138 commits    █████░░░░░░░░░░░░░░░░░░░░   23.15% 
+Tuesday      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
+Thursday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Friday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
+Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+Sunday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.78%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ArthurZucker/ArthurZucker/main/charts/bar_graph.png) 
+
+
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 
 ## ⚡ Tech Stack
