@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my github repository!
+# Hi there 👋 Welcome to my github repository! [![wakatime](https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7/project/6d2b689d-f596-4ede-b18f-f2b9853db8a5.svg)](https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7/project/6d2b689d-f596-4ede-b18f-f2b9853db8a5)
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/arthur-zucker-8a0445144/">
@@ -15,7 +15,7 @@
 	</a>
 </p>
 
-📊 **this week i spent my time on:**
+📊 **this week i spent my coding time on:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   11 hrs 18 mins  ████████████████████▓░░░░   82.64 % 
@@ -29,11 +29,11 @@ JSX          9 mins          ▒░░░░░░░░░░░░░░░░
 ## ⚡ Tech Stack
 
 ### 🚀 Languages :
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
