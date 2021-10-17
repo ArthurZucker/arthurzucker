@@ -1,6 +1,7 @@
-# Hi there 👋 Welcome to my github repository! [![wakatime](https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7.svg)](https://wakatime.com/@57d887d6-525a-4214-a78c-21863f2f88f7) <img src="https://views.whatilearened.today/views/github/arthurzucker/views.svg"/>
+# Hi there 👋 Welcome to my github repository! 
 
 <p align="center">
+	<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue?style=for-the-badge" />
 	<a href="https://www.linkedin.com/in/arthur-zucker-8a0445144/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
@@ -14,6 +15,11 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+<p align="center">
+<img src="https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7.svg"/>
+<img src="https://views.whatilearened.today/views/github/arthurzucker/views.svg"/>
+</p>
+
 
 ## Head to my website if you want readable sentences! Otherwise keep ... scrolling!
 
@@ -51,9 +57,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -133,11 +137,6 @@ C                        2 repos             ██░░░░░░░░░�
 <p align="center">
    <img src="https://github.com/ArthurZucker/ArthurZucker/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-
-
-
-
 
 
 
