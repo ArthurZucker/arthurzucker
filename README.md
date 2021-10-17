@@ -29,7 +29,9 @@
 
 ### Deep Learning Frameworks
 
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=java&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform:
 
@@ -50,8 +52,6 @@
 
 ![Arthur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurZucker&hide_border=true&theme=gotham)
 
-
-![snake gif](https://github.com/ArthurZucker/ArthurZucker/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
    <img src="https://github.com/ArthurZucker/ArthurZucker/blob/output/github-contribution-grid-snake.svg" alt="snake">
