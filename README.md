@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my github repository!
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/arthur-zucker-8a0445144/">
