@@ -15,7 +15,7 @@
 	</a>
 </p>
 
-<!--END_SECTION:waka-->
+
 
 ## ⚡ Tech Stack
 
@@ -119,13 +119,10 @@ C                        2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ArthurZucker/ArthurZucker/main/charts/bar_graph.png) 
-
 
  Last Updated on 17/10/2021
 
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZucker&theme=gotham&layout=compact&langs_count=8&?hide=html,jupyter%20notebook,Jupyter" />
