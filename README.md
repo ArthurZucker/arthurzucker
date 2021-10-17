@@ -15,7 +15,6 @@
 	</a>
 </p>
 
-📊 **this week i spent my coding time on:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -56,7 +55,11 @@ No Activity tracked this Week
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzucker&theme=gotham&layout=compact&?hide=html,Jupyter\ Notebook&langs_count=8" />
+<p align="center">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZucker&theme=gotham&layout=compact&langs_count=8&?hide=html,jupyter%20notebook,Jupyter" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArthurZucker&theme=gotham" />
+
+</p>
 
 
 ![Arthur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurZucker&hide_border=true&theme=gotham)
@@ -66,17 +69,10 @@ No Activity tracked this Week
    <img src="https://github.com/ArthurZucker/ArthurZucker/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-[![Art's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArthurZucker&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Top Repositories
 
 
-<a href="https://github.com/ArthurZucker/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurZucker&repo=ArthurZucker&theme=gotham" />
-</a>
-<a href="https://github.com/ArthurZucker/ArthurZucker.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurZucker&repo=ArthurZucker.github.io&theme=gotham" />
-</a>
+
 
 
