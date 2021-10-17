@@ -15,7 +15,7 @@
 	</a>
 </p>
 
-
+## Head to my website if you want readable sentences! Otherwise keep ... scrolling!
 
 ## ⚡ Tech Stack
 
