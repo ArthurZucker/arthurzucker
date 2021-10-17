@@ -124,11 +124,6 @@ C                        2 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZucker&theme=gotham&layout=compact&langs_count=8&?hide=html,jupyter%20notebook,Jupyter" />
- <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArthurZucker&theme=gotham" />
-
-</p>
 
 
 ![Arthur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurZucker&hide_border=true&theme=gotham)
