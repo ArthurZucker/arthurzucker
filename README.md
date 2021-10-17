@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my github repository! [![wakatime](https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7/project/6d2b689d-f596-4ede-b18f-f2b9853db8a5.svg)](https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7/project/6d2b689d-f596-4ede-b18f-f2b9853db8a5)
+# Hi there 👋 Welcome to my github repository! [![wakatime](https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7/project/6d2b689d-f596-4ede-b18f-f2b9853db8a5.svg)](https://wakatime.com/badge/user/57d887d6-525a-4214-a78c-21863f2f88f7/project/6d2b689d-f596-4ede-b18f-f2b9853db8a5) <img src="https://views.whatilearened.today/views/github/arthurzucker/views.svg"/>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/arthur-zucker-8a0445144/">
@@ -51,9 +51,12 @@ No Activity tracked this Week
 
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArthurZucker&show_icons=true&hide_border=true&theme=gotham" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurZucker&hide_border=true&theme=gotham" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArthurZucker&count_private=true&show_icons=true&hide_border=true&theme=gotham" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurZucker&hide_border=true&theme=gotham&count_private=true" />
 </p>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzucker&theme=gotham&layout=compact" />
 
 
 ![Arthur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ArthurZucker&hide_border=true&theme=gotham)
@@ -62,4 +65,18 @@ No Activity tracked this Week
 <p align="center">
    <img src="https://github.com/ArthurZucker/ArthurZucker/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+#### Top Repositories
+
+
+<a href="https://github.com/ArthurZucker/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurZucker&repo=ArthurZucker&theme=gotham" />
+</a>
+<a href="https://github.com/ArthurZucker/ArthurZucker.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurZucker&repo=ArthurZucker.github.io&theme=gotham" />
+</a>
+
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/ArthurZucker/github-stats/blob/master/generated/overview.svg)
 
