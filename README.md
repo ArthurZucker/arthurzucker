@@ -57,7 +57,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
@@ -102,16 +102,24 @@ Sunday       114 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 27 mins       █████████████████░░░░░░░░   69.31% 
+YAML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99% 
+HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 33 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+arthurzucker             2 hrs 15 mins       ███████████████░░░░░░░░░░   63.46% 
+hugo-toha.github.io      55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86% 
+toha                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
+DENet                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +136,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2021
+ Last Updated on 18/10/2021
 <!--END_SECTION:waka-->
 
 
