@@ -52,7 +52,7 @@
 
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArthurZucker&count_private=true&show_icons=true&hide_border=true&theme=gotham" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArthurZucker&count_private=true&show_icons=true&hide_border=true&theme=gotham&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurZucker&hide_border=true&theme=gotham&count_private=true" />
 </p>
 
